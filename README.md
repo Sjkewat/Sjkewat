@@ -10,6 +10,7 @@
 - 🔭 Working on **AI-powered web apps**
 - 🎮 Passionate about **Game Development** with Unity & Blender
 - 🎨 Strong background in **UI/UX Design**
+- 💡 Built a **Tic Tac Toe** game as my first web project
 - 📍 Based in **Mumbai, India**
 
 ---
@@ -26,6 +27,7 @@
 ### Web
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### AI & Tools
 ![LangChain](https://img.shields.io/badge/LangChain-green?style=for-the-badge)
@@ -59,6 +61,8 @@
 ## 📌 Featured Projects
 
 🩺 [Blood Work Analyzer](https://github.com/Sjkewat/blood-work-analyzer) — AI-powered blood report analyzer using Google Gemini and Streamlit
+
+🎮 [Tic Tac Toe](https://github.com/Sjkewat/tic-tac-toe) — Classic Tic Tac Toe game built with HTML, CSS and JavaScript
 
 ---
 
