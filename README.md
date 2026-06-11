@@ -1,5 +1,4 @@
 # Hi there, I'm Suraj! 👋
-
 🎓 Computer Science Student | 💻 Frontend Developer | 🤖 AI Enthusiast
 
 ---
@@ -30,8 +29,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### AI & Tools
-![LangChain](https://img.shields.io/badge/LangChain-green?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-orange?style=for-the-badge&logo=google)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### Design
@@ -47,7 +47,6 @@
 ## 📊 GitHub Stats
 
 ![Suraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sjkewat&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sjkewat&layout=compact&theme=tokyonight)
 
 ---
@@ -60,13 +59,15 @@
 
 ## 📌 Featured Projects
 
-🩺 [Blood Work Analyzer](https://github.com/Sjkewat/blood-work-analyzer) — AI-powered blood report analyzer using Google Gemini and Streamlit
+🩺 [Blood Work Analyzer](https://github.com/Sjkewat/blood-work-analyzer) — AI-powered blood report analyzer that extracts abnormal values and generates personalized diet plans using Google Gemini and Streamlit
 
-🎮 [Tic Tac Toe](https://github.com/Sjkewat/tic-tac-toe) — Classic Tic Tac Toe game built with HTML, CSS and JavaScript
+🛒 [AI Shopping Assistant](https://github.com/Sjkewat/shopping-agent) — Conversational shopping agent with text and image-based product search, live ratings, and one-click ordering — powered by Groq LLaMA 3 and LangChain
+
+🎮 [Tic Tac Toe](https://github.com/Sjkewat/tic-tac-toe) — Classic Tic Tac Toe game built with HTML, CSS and JavaScript, hosted on GitHub Pages
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-kewat-a21523375)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajkewat63748@gmail.com)
