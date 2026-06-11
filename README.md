@@ -10,7 +10,7 @@
 - 🎮 Passionate about **Game Development** with Unity & Blender
 - 🎨 Strong background in **UI/UX Design**
 - 💡 Built a **Tic Tac Toe** game as my first web project
-- 📍 Based in **Mumbai, India**
+- 📍 Based in **Goa, India**
 
 ---
 
